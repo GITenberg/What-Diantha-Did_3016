@@ -1,0 +1,36 @@
+_repo: What-Diantha-Did_3016
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gilman, Charlotte Perkins
+    aliases:
+    - Perkins, Charlotte Anna
+    - Stetson, Charlotte Perkins
+    birthdate: 1860
+    deathdate: 1935
+    gutenberg_agent_id: '27'
+    url: http://www.gutenberg.org/2009/agents/27
+    wikipedia: http://en.wikipedia.org/wiki/Charlotte_Perkins_Gilman
+description: Go to top; Chapter I; Handicapped; Chapter II; An Unnatural Daughter;
+  Chapter III; Breakers; Chapter IV; A Crying Need; Chapter V; What Diantha Did; Chapter
+  VI; The Cynosure; Chapter VII; Heresy and Schism; Chapter VIII; Chapter IX; "Sleeping
+  In"; Chapter X; Union House; Chapter XI; The Power of the Screw; Chapter XII; Like
+  a Banyan Tree; Chapter XIII; All This; Chapter XIV; And Heaven Beside; Charlotte
+  Perkins Gilman Biography.
+gutenberg_issued: '2002-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3016'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women household employees -- Fiction'
+- !lcsh 'Feminist fiction'
+- !lcc 'PS'
+- !lcsh 'Women -- Employment -- Fiction'
+- !lcsh 'Businesswomen -- Fiction'
+- GITenberg
+title: What Diantha Did
+url: http://www.gutenberg.org/ebooks/3016
